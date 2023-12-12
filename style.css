@@ -1,0 +1,70 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+/* .fill-blue-500 {
+  fill: #3b82f6;
+}
+.fill-white {
+  fill: #fff;
+} */
+
+.col-5 {
+  flex: 0 0 41.666667%;
+  max-width: 41.666667%;
+}
+.col-7 {
+  flex: 0 0 58.333333%;
+  max-width: 58.333333%;
+}
+.svg-inline--fa.fa-w-18 {
+  width: 1.125em;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+}
+.online-round[data-v-139d4b43] {
+  border-radius: 50%;
+  display: inline-flex;
+  height: 8px;
+  width: 8px;
+}
+
+.bg-green-9 {
+  opacity: 1;
+  background-color: #34c300;
+  margin: 3px 0;
+}
+.group {
+  color: #343a40;
+}
+.yellow-star {
+  color: #ffb83a;
+}
+
+/* visit page */
+
+.btn-gradient-color {
+  background: linear-gradient(49deg, #4842f4, #4cddf2);
+
+  color: #fff;
+}
+.profile-img {
+  border: 5px solid #eee;
+  border-radius: 50rem;
+  height: 50px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 50px;
+}
+
+/* footer */
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+}
